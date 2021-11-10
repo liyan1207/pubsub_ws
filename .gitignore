@@ -32,6 +32,16 @@ Makefile*
 *.qm
 *.prl
 
+build/
+devel/
+install/
+logs/
+.git/
+*.workspace
+*.workspace.user
+.catkin_workspace
+src/CMakeLists.txt
+
 # Qt unit tests
 target_wrapper.*
 
